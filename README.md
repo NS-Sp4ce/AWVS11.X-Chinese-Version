@@ -1,5 +1,5 @@
 # AWVS11.X-Chinese-Version
-AWVS11.X汉化包
+AWVS11.X汉化包[版本: 11.0.172901635(17 October 2017)]
 ## 使用方法
 1. 下载
 2. 解压
