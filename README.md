@@ -9,4 +9,4 @@ AWVS11.X汉化包
 4. 如AWVS11运行中，请强制刷新AWVS11当前页
 ## 问题反馈
 反馈到本项目或
-Email:sp4ce.sec.gmail.com
+Email:sp4ce.sec@gmail.com
